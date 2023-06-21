@@ -1,0 +1,66 @@
+{
+  "sources" : [
+    {
+      "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/5a7440b504f167afaab33b5f664cfacbe5a2f9722204bf1b7d862aec0dae3f95c07cec79788f7b4e8bace37f9f91f8d590ba41e09e629add44d7653a12c92942fc59dbdfc9134ed87caceb9342f2f0f7e17ef4eb57a1588082a9c4dcfdde4320b6db2c96a5b09e5361f9fecfc0d2b4bbae333399a57533767f2736e3c96238a3b787f2c173dfbb0695835a38c0b2e650/index-f1-v1-a1.m3u8",
+      "quality": "1080p",
+      "isM3U8": true
+    },
+    {
+      "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/5a7440b504f167afaab33b5f664cfacbe5a2f9722204bf1b7d862aec0dae3f95c07cec79788f7b4e8bace37f9f91f8d590ba41e09e629add44d7653a12c92942fc59dbdfc9134ed87caceb9342f2f0f7e17ef4eb57a1588082a9c4dcfdde4320b6db2c96a5b09e5361f9fecfc0d2b4bbae333399a57533767f2736e3c96238a3b787f2c173dfbb0695835a38c0b2e650/index-f2-v1-a1.m3u8",
+      "quality": "720p",
+      "isM3U8": true
+    },
+    {
+      "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/5a7440b504f167afaab33b5f664cfacbe5a2f9722204bf1b7d862aec0dae3f95c07cec79788f7b4e8bace37f9f91f8d590ba41e09e629add44d7653a12c92942fc59dbdfc9134ed87caceb9342f2f0f7e17ef4eb57a1588082a9c4dcfdde4320b6db2c96a5b09e5361f9fecfc0d2b4bbae333399a57533767f2736e3c96238a3b787f2c173dfbb0695835a38c0b2e650/index-f3-v1-a1.m3u8",
+      "quality": "360p",
+      "isM3U8": true
+    },
+    {
+      "url": "https://c-an-ca4.betterstream.cc:2223/hls-playback/5a7440b504f167afaab33b5f664cfacbe5a2f9722204bf1b7d862aec0dae3f95c07cec79788f7b4e8bace37f9f91f8d590ba41e09e629add44d7653a12c92942fc59dbdfc9134ed87caceb9342f2f0f7e17ef4eb57a1588082a9c4dcfdde4320b6db2c96a5b09e5361f9fecfc0d2b4bbae333399a57533767f2736e3c96238a3b787f2c173dfbb0695835a38c0b2e650/master.m3u8",
+      "isM3U8": true,
+      "quality": "auto"
+    }
+  ],
+  "subtitles": [
+    {
+      "url": "https://cc.zorores.com/30/4d/304d368753536ce3dcfed3c1627d7ab4/304d368753536ce3dcfed3c1627d7ab4.vtt",
+      "lang": "Arabic"
+    },
+    {
+      "url": "https://cc.zorores.com/81/38/813846caf98a1d3744e4a5b338f7ffed/813846caf98a1d3744e4a5b338f7ffed.vtt",
+      "lang": "English"
+    },
+    {
+      "url": "https://cc.zorores.com/74/dc/74dc5e933856392a79c685e3f1641def/74dc5e933856392a79c685e3f1641def.vtt",
+      "lang": "French"
+    },
+    {
+      "url": "https://cc.zorores.com/bf/80/bf80469e8e7deda8090b99c5d45ec13d/bf80469e8e7deda8090b99c5d45ec13d.vtt",
+      "lang": "German"
+    },
+    {
+      "url": "https://cc.zorores.com/bb/69/bb69657167ab09fd0a04f2a261c53d38/bb69657167ab09fd0a04f2a261c53d38.vtt",
+      "lang": "Italian"
+    },
+    {
+      "url": "https://cc.zorores.com/34/fc/34fc9d681809646ff3e691bbe4854a43/34fc9d681809646ff3e691bbe4854a43.vtt",
+      "lang": "Portuguese - Portugues"
+    },
+    {
+      "url": "https://cc.zorores.com/9b/0f/9b0f54ae9cc1ababed856b34338078a6/9b0f54ae9cc1ababed856b34338078a6.vtt",
+      "lang": "Russian"
+    },
+    {
+      "url": "https://cc.zorores.com/75/09/750901b9ee055b284fbb1d415c396c16/750901b9ee055b284fbb1d415c396c16.vtt",
+      "lang": "Spanish - Espanol"
+    },
+    {
+      "url": "https://cc.zorores.com/1d/03/1d03e3e5f99c220c598ca1fc53aac737/1d03e3e5f99c220c598ca1fc53aac737.vtt",
+      "lang": "Spanish - Espanol (Latin American)"
+    }
+  ],
+  "intro": {
+    "start": 39,
+    "end": 128
+  }
+}

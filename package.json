@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  },
+  "name": "AnimeHashiraa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@consumet/extensions": "^1.4.17",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.22",
+    "qs": "^6.11.1",
+    "socket.io": "^4.6.1"
+  },
+  "scripts": {
+     "start": "node index.js",
+     "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build"
+  },
+  "author": "RyuGod",
+  "license": "ISC",
+  "homepage": "https://github.com/AuraMoon55/INDIAN-ANIME-SEASONS#readme",
+  "description": ""
+}
